@@ -1,2 +1,3 @@
-# sql-sqlzoo
-Exercises from sqlzoo.net
+# SQLZoo
+
+Exercises from [sqlzoo.net](http://sqlzoo.net).
