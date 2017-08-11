@@ -4,17 +4,17 @@ SQL exercises from [sqlzoo.net](http://sqlzoo.net).
 
 ## Index
 
-00. SELECT Basics
-01. SELECT Name
-02. SELECT From World
-03. SELECT From Nobel
-04. SELECT Within SELECT
-05. SUM and COUNT
-06. JOIN
-07. More JOIN Operations
-08. Using NULL
-08. Numeric Examples (08+)
-09. Self JOIN
+00. [SELECT Basics](#00-select-basics)
+01. [SELECT Name](#01-select-name)
+02. [SELECT From World](#02-select-from-world)
+03. [SELECT From Nobel](#03-select-from-nobel)
+04. [SELECT Within SELECT](#04-select-within-select)
+05. [SUM and COUNT](#05-sum-and-count)
+06. [JOIN](#06-join)
+07. [More JOIN Operations](#07-more-join-operations)
+08. [Using NULL](#08-using-null)
+08. [Numeric Examples (08+)](#08-numeric-examples)
+09. [Self JOIN](#09-self-join)
 
 ## 00. SELECT Basics
 
