@@ -37,7 +37,7 @@ GROUP BY subject;
 
 -- 5. Show the subject and total number of students who A_STRONGLY_AGREE to
 -- question 22 for each of the subjects '(8) Computer Science' and
---'(H) Creative Arts and Design'.
+-- '(H) Creative Arts and Design'.
 
   SELECT subject,
          SUM(response * A_STRONGLY_AGREE / 100)
